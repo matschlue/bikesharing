@@ -18,3 +18,5 @@ The examination shows:
 - User trips by gender by weekday
 - Top starting location
 - Top ending location  
+
+## Summary
