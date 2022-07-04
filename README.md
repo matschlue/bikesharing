@@ -6,3 +6,11 @@ The examination shows:
 - the length of time that bikes are checked out for all riders and genders
 - the number of bike trips for all riders and genders for each hour of each day of the week
 - the number of bike trips for each type of user and gender for each day of the week.
+
+## Results
+
+[link to dashboard](https://public.tableau.com/app/profile/matthias2688/viz/Bikesharing_Challenge_16569019880430/Story1?publish=yes)
+
+https://public.tableau.com/app/profile/matthias2688/viz/Bikesharing_Challenge_16569019880430/Story1?publish=yes
+
+-  
