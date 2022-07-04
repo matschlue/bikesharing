@@ -11,6 +11,10 @@ The examination shows:
 
 [link to dashboard](https://public.tableau.com/app/profile/matthias2688/viz/Bikesharing_Challenge_16569019880430/Story1?publish=yes)
 
-https://public.tableau.com/app/profile/matthias2688/viz/Bikesharing_Challenge_16569019880430/Story1?publish=yes
-
--  
+- Checkout times for users
+- Checkout times for gender
+- Trips by weekday per hour
+- Trips  by gender (Weekday per hour)
+- User trips by gender by weekday
+- Top starting location
+- Top ending location  
