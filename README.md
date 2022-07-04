@@ -20,3 +20,5 @@ The examination shows:
 - Top ending location  
 
 ## Summary
+
+Addintional visualizations could include revenue per gender/hour/ and costs per gender/hour. 
