@@ -25,5 +25,5 @@ The examination shows:
   - Top starting and ending locations are located in popular hotspots for tourists (Manhattan). 
 
 ## Summary
-The typical bike user is male, has a subscription and uses the ride to and from the office. However, during the weekend, bikes are also used to visit sightseeing spots within New York. In order to convince investors, future revenue predictions should be included into the presentation. 
+The typical bike user is male, has a subscription and uses the bike to get to and from the office. However, during the weekend, bikes are also used to visit sightseeing spots within New York. In order to convince investors, future revenue predictions should be included into the presentation as well. 
 Addintional visualizations could include revenue per gender/hour/ and costs per gender/hour. 
